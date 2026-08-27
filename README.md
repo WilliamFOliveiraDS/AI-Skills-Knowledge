@@ -10,7 +10,7 @@ Pessoal, configurei no nosso workspace da Lovable um Knowledge de segurança e 1
 
 Esse não depende de gatilho: fica carregado em TODA conversa, mesmo que ninguém peça nada sobre segurança. É a nossa regra base.
 
-O que ele cobre:
+O que ele cobre: <br>
 • *Arquitetura BFF* — nenhum componente do front chama API externa, banco ou serviço de terceiro direto. Tudo passa pela camada BFF.
 • *Segredos* — nada de chave no código ou em .env commitado. Tudo em Secrets.
 • *Autenticação* — token em cookie httpOnly, nunca em localStorage. JWT verificado, não só decodificado.
