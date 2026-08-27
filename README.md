@@ -5,6 +5,7 @@ Skills desenvolvidas por mim
 Pessoal, configurei no nosso workspace da Lovable um Knowledge de segurança e 15 skills. Segue o que é cada coisa e quando entra em ação.
 
 ———————————————
+
 *1) KNOWLEDGE DE SEGURANÇA (sempre ativo)*
 
 Esse não depende de gatilho: fica carregado em TODA conversa, mesmo que ninguém peça nada sobre segurança. É a nossa regra base.
@@ -20,6 +21,7 @@ O que ele cobre:
 • *Checagem final* — checklist de 30 itens + validar se as APIs externas retornam 200 OK + conferir se nenhuma rota interna ficou quebrada após mudanças.
 
 ———————————————
+
 *2) COMO AS SKILLS SÃO ACIONADAS*
 
 Na maioria das vezes é *automático*: a Lovable lê a descrição de todas as skills, compara com o que você pediu e carrega as que fizerem sentido. Não precisa fazer nada.
@@ -29,6 +31,7 @@ Mas dá pra *forçar quando quiser*: é só clicar no *+* e selecionar a skill n
 Usem o + quando a skill for essencial pra tarefa — principalmente em pagamento, LGPD e teste de abuso, onde deixar passar custa caro.
 
 ———————————————
+
 *3) AS 15 SKILLS*
 
 *seo-onpage*
@@ -92,6 +95,7 @@ Quando: assumir projeto legado ou código de outra pessoa.
 Faz: diagnóstico antes de mexer — onde estão os segredos, como está a autenticação, mapa de rotas, dependências vulneráveis, zonas de risco. Não refatora durante a auditoria.
 
 ———————————————
+
 *OBSERVAÇÕES*
 
 • As skills de interface se cruzam de propósito (design-system, mobile-first, acessibilidade, formularios, estados-de-tela, performance-web). Cada uma diz no início o que cobre e pra onde mandar o resto, então não se contradizem.
