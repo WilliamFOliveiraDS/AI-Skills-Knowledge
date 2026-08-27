@@ -1,10 +1,6 @@
 # AI-Skills-Knowledge
-Skills desenvolvidas por mim
-*PADRONIZAÇÃO NA LOVABLE — O QUE FOI CONFIGURADO*
+Skills desenvolvidas por mim para
 
-Pessoal, configurei no nosso workspace da Lovable um Knowledge de segurança e 15 skills. Segue o que é cada coisa e quando entra em ação.
-
-———————————————<br>
 *1) KNOWLEDGE DE SEGURANÇA (sempre ativo)*
 
 Esse não depende de gatilho: fica carregado em TODA conversa, mesmo que ninguém peça nada sobre segurança. É a nossa regra base.
